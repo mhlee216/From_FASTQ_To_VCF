@@ -1,4 +1,4 @@
-# First Step of NGS : From FASTQ To VCF
+# First Step of NGS : From FASTQ To VCF (practice)
 
 
 #### Example
