@@ -12,6 +12,7 @@ _Thioalkalivibrio sp. ALE23 (g-proteobacteria)_
 - vcftools
 - trim-galore
 - bwa
+- tablet
 
 
 #### from_fastq_to_vcf.sh
@@ -21,5 +22,5 @@ _Thioalkalivibrio sp. ALE23 (g-proteobacteria)_
 3. Trimming
 4. Make SAM file
 5. Make BAM file
-(Visualization)
-6. Make VCF file
+6. Visualization
+7. Make VCF file
