@@ -22,5 +22,5 @@ _Thioalkalivibrio sp. ALE23 (g-proteobacteria)_
 3. Trimming
 4. Make SAM file
 5. Make BAM file
-6. Visualization
+6. Visualization (Option)
 7. Make VCF file
